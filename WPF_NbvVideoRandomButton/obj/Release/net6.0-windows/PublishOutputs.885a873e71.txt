@@ -1,0 +1,5 @@
+C:\Users\User\OneDrive\Работен плот\RandomNBVVideo\WPF_NbvVideoRandomButton.exe
+C:\Users\User\OneDrive\Работен плот\RandomNBVVideo\WPF_NbvVideoRandomButton.dll
+C:\Users\User\OneDrive\Работен плот\RandomNBVVideo\WPF_NbvVideoRandomButton.deps.json
+C:\Users\User\OneDrive\Работен плот\RandomNBVVideo\WPF_NbvVideoRandomButton.runtimeconfig.json
+C:\Users\User\OneDrive\Работен плот\RandomNBVVideo\WPF_NbvVideoRandomButton.pdb
